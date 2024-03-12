@@ -1,0 +1,1 @@
+# -L.C.M.-of-two-input-number
